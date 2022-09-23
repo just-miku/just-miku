@@ -8,10 +8,7 @@ class me:
         
 
 
-- 👋 Hi, I’m @just-miku
-- 👀 I’m interested in Time Series/Frequency analysis, extreme value analysis, Python/MatLab Programming, I hate R
-- 🌱 I’m currently learning how to make artificial retards/intelligence and more statistical 
-- 📫 How to reach me ..... EternalKor#0811
+
 
 <!---
 just-miku/just-miku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
